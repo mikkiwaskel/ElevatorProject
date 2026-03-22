@@ -1,5 +1,5 @@
 # Project Overview
-This is a 2D Elevator Simulation built in Unity 6. It simulates a real elevator system with 3 elevators and 4 floors (Ground, 1, 2, 3). The user can press floor call buttons, and the system automatically decides which elevator should respond based on proximity, direction, and current workload. Each elevator moves smoothly, opens/closes doors, and plays sound effects at the right moments.
+This is a 2D Elevator Simulation built in the version of Unity(2022.3.21f1). It simulates a real elevator system with 3 elevators and 4 floors (Ground, 1, 2, 3). The user can press floor call buttons, and the system automatically decides which elevator should respond based on proximity, direction, and current workload. Each elevator moves smoothly, opens/closes doors, and plays sound effects at the right moments.
 
 # Project Structure
 Assets/
